@@ -1,0 +1,16 @@
+<html lange="en">
+<head>
+   <style>
+       header{
+       }
+       nav{
+          background-color-
+<body>
+
+<header>
+
+
+<nav> 
+    <a href=#home#>Home</a>
+    <a href=#about#>About</a>
+    <a href=#
